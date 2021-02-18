@@ -1,5 +1,3 @@
-# Assignment1
-***
 ## Online Marketplace
 ---
 ### Fuctionalities 
